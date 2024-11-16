@@ -34,7 +34,7 @@ To run the project, ensure you have the following dependencies installed:
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd fake_news_analysis
+   cd fake-news-analysis
    ```
 2. Install the required libraries
 
